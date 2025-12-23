@@ -1,4 +1,4 @@
-# SanpBite 🍔
+# SanpBite 
 
 A food ordering web application.
 
